@@ -32,3 +32,7 @@
 * Do not modify the script before running.
 * Make sure the PIN is correct.
 * If nothing happens, the API may be unavailable or the quiz structure has changed.
+---
+
+## ⚠️ Disclaimer
+This tool is created for the purpose of supporting personal learning and research.
