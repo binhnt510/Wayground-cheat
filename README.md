@@ -8,7 +8,7 @@
    * Press `F12` or `Ctrl + Shift + I`
    * Go to the **Console** tab
 
-3. Copy the code from the file wayground.js, paste it into the console, and press Enter
+3. Copy the code from the file **wayground.js**, paste it into the console, and press Enter
 
 4. When prompted, enter the **PIN**
 
